@@ -9,3 +9,4 @@ Test conflict 4
 ### Task2
 Commit1
 Commit2
+Commit3
