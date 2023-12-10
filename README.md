@@ -3,9 +3,6 @@ Test Conflict 1
 Test Cjnflict 2
 Test conflict 4
 <<<<<<< HEAD
-=======
->>>>>>> parent of 6be8708 (add Tconflict 444)
-<<<<<<< HEAD
 
 ### Task2
 Commit1
